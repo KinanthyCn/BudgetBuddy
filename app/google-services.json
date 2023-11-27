@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481037213445",
+    "project_id": "budgetbuddy-bc44e",
+    "storage_bucket": "budgetbuddy-bc44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481037213445:android:8366cb36f0c2dcd1d4a16c",
+        "android_client_info": {
+          "package_name": "com.kinan.budgetbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjorzjtJs7C8MgKINv053Ak3WZv81xDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
